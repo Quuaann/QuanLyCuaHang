@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>../../pic/icon10.png</file>
+    <file>../../pic/icon9.png</file>
+    <file>../../pic/icon8.png</file>
+    <file>../../pic/icon7.png</file>
+    <file>../../pic/icon6.png</file>
+    <file>../../pic/icon5.png</file>
+    <file>../../pic/icon4.png</file>
+    <file>../../pic/icon3.png</file>
+    <file>../../pic/icon2.png</file>
+    <file>../../pic/Supermarket.jpeg</file>
+    <file>../../pic/premium_photo-1661443598082-afd740d6d07c.png</file>
+  </qresource>
+</RCC>

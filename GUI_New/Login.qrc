@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>../../pic/icon1.png</file>
+    <file>../../pic/premium_photo-1661443598082-afd740d6d07c.avif</file>
+    <file>../../pic/premium_photo-1661443598082-afd740d6d07c.png</file>
+  </qresource>
+</RCC>

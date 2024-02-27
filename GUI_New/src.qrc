@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>src/pngtree-vector-leftward-arrow-icon-png-image_991704.jpg</file>
+    <file>src/R.jfif</file>
+  </qresource>
+</RCC>
