@@ -1,0 +1,4 @@
+- Python
+- SQL Server
+- 3 Layer
+- Linux
